@@ -10,7 +10,7 @@ Implementar una solución de **ETL** y **ELT** para análisis profundos de indic
 
 ## 🏗 Arquitectura
 
-![Arquitectura del Proyecto](Images/Arquitectura.png)
+![Arquitectura del Proyecto](Images/arquitectura.png)
 
 ## 🚀 Implementación
 
